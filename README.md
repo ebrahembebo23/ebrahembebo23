@@ -1,7 +1,7 @@
 
 [![MasterHead](http://www.ipowersoftwares.com/wp-content/uploads/2015/12/ASP.net-AND-.NET-banner.png)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Ebrahem Karm</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim Karam</h1>
 <h3 align="center">A passionate .Net full stack developer from Egypt.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
